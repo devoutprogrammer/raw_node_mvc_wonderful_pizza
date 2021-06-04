@@ -40,7 +40,7 @@ All the backend codes and all the classes of the backend code inherit a single N
 
 1. clone the repository:
  ```javascript
- git clone https://github.com/devoutprogrammer/raw_nodeJs_mvc_wonderful_pizza.git mvc
+ git clone https://github.com/devoutprogrammer/raw_node_mvc_wonderful_pizza mvc
 ```
 2. cd in the directory:
 ```javascript
