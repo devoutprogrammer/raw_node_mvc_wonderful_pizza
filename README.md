@@ -33,7 +33,7 @@ All the backend codes and all the classes of the backend code inherit a single N
 ```javascript
 CLI (no requirements)
 ```
- There are no requirements. You can run the CLI immediately after cloning the repository.
+ There are no requirements for the CLI. You can run the CLI immediately after cloning the repository.
 
 ```javascript
 Frontend (API keys required)
