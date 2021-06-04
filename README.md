@@ -33,17 +33,20 @@ All the backend codes and all the classes of the backend code inherit a single N
     1. ```javascript CLI ```: 
         There are no requirements. You can run the CLI immediately after cloning the repository.
     2. ```javascript Frontend ```:
-     The application uses Twilio for texting/calling, Mailgun for emailing, and Stripe for payment. So in order to use all the frontend functionalities (placing orders, sending and recieving emails, text messaging, invoicing etc) you need to add your Twilio API keys, Stripe API Keys, and Mailgun API Keys.
-    Place in your ALL your API keys in the corresponing area in the file located in config directory: config/env/.env/index.js
-    ![config/env/.env/index.js](https://github.com/devoutprogrammer/raw_node_mvc_wonderful_pizza/blob/main/public/images/api/index-js.p)
+        The application uses Twilio for texting/calling, Mailgun for emailing, and Stripe for payment. So in order to use all the frontend functionalities (placing orders, sending and recieving emails, text messaging, invoicing etc) you need to add your Twilio API keys, Stripe API Keys, and Mailgun API Keys. Place in your ALL your API keys in the corresponing area in the file located in config directory: /config/env/.env/index.js.
+   
 
 ### installation
-
-
 1. clone the repository:
  ```javascript
  git clone https://github.com/devoutprogrammer/raw_node_mvc_wonderful_pizza mvc
 ```
+or 
+  ```javascript
+ gh repo clone devoutprogrammer/raw_node_mvc_wonderful_pizza mvc
+ ```
+  Note: to use the command ```gh repo clone devoutprogrammer/raw_node_mvc_wonderful_pizza mvc``` you must have  Github CLI ```gh ``` installed on your system.
+ 
 2. cd in the directory:
 ```javascript
 cd mvc
@@ -52,5 +55,7 @@ cd mvc
 ```javascript
  node index
 ```
+4. Admin CLI:
 
-# raw_node_mvc_wonderful_pizza
+ After successfully runing the command ```node index``` or ```node index.js``` in step 3, the CLI will be available with instructions.
+
