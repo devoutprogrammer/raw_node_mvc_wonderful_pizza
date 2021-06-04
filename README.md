@@ -30,18 +30,28 @@ All the backend codes and all the classes of the backend code inherit a single N
  EventEmitter
 ```
 ### Requirements
-    1. ```javascript CLI ```: 
-        There are no requirements. You can run the CLI immediately after cloning the repository.
-    2. ```javascript Frontend ```:
-        The application uses Twilio for texting/calling, Mailgun for emailing, and Stripe for payment. So in order to use all the frontend functionalities (placing orders, sending and recieving emails, text messaging, invoicing etc) you need to add your Twilio API keys, Stripe API Keys, and Mailgun API Keys. Place in your ALL your API keys in the corresponing area in the file located in config directory: /config/env/.env/index.js.
-   
+```javascript
+CLI (no requirements)
+```
+ There are no requirements. You can run the CLI immediately after cloning the repository.
 
-### installation
+ ```javascript
+Frontend (API keys required)
+```
+The application uses Twilio for texting/calling, Mailgun for emailing, and Stripe for payment. So in order to use all the frontend functionalities (placing orders, sending and recieving emails, text messaging, invoicing etc) you need to add your Twilio API keys, Stripe API Keys, and Mailgun API Keys. Place ALL your API keys in the corresponing areas in the file located in config directory: /config/env/.env/index.js.
+
+
+
+### Installation
 1. clone the repository:
  ```javascript
- git clone https://github.com/devoutprogrammer/raw_node_mvc_wonderful_pizza mvc
+ git clone https://github.com/devoutprogrammer/raw_node_mvc_wonderful_pizza.git mvc
 ```
 or 
+ ```javascript
+ git clone git@github.com:devoutprogrammer/raw_node_mvc_wonderful_pizza.git mvc
+```
+or
   ```javascript
  gh repo clone devoutprogrammer/raw_node_mvc_wonderful_pizza mvc
  ```
