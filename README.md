@@ -33,7 +33,7 @@ All the backend codes and all the classes of the backend code inherit a single N
     1. CLI: there is not requirements. You can run immediately after cloning the repository.
     2. Frontend: The application use Twilio for texting/calling, Mailgun form emailing, and Stripe for payment. So in order to use all the frontend functionalities (placing orders, sending and recieving emails, text messaging, invoicing etc) you need to add your Twilio API keys, Stripe API Keys, and Mailgun API Keys.
     Place in your ALL your API keys in the corresponing area in the file located in config directory: config/env/.env/index.js
-    ![config/env/.env/index.js](/public/images/api/index-js.png)
+    ![config/env/.env/index.js](https://github.com/devoutprogrammer/raw_node_mvc_wonderful_pizza)
 
 ### installation
 
