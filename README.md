@@ -38,7 +38,7 @@ CLI (no requirements)
 ```javascript
 Frontend (API keys required)
 ```
-The application uses Twilio for texting/calling, Mailgun for emailing, and Stripe for payment. So in order to use all the frontend functionalities (placing orders, sending and recieving emails, text messaging, invoicing etc) you need to add your Twilio API keys, Stripe API Keys, and Mailgun API Keys. Place ALL your API keys in the corresponing areas in the file located in config directory: ```javascript /config/env/.env/index.js ```
+The application uses Twilio for texting/calling, Mailgun for emailing, and Stripe for payment. So in order to use all the frontend functionalities (placing orders, sending and recieving emails, text messaging, invoicing etc) you need to add your Twilio API keys, Stripe API Keys, and Mailgun API Keys. Place ALL your API keys in the corresponing areas in the file located in config directory: ```/config/env/.env/index.js ```
 
 
 
