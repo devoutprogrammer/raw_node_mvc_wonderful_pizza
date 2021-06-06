@@ -74,7 +74,7 @@ class ManCommand extends HelpCommand{
                     error: `'${comman}' is not command`
                 })
             }
-            return this.run(`open http://localhost:3000` )
+            return this.run(`open http://localhost:3000/about` )
             .then(() => {
                 console.log()
                 return this.emit('man:success', {message: 'App is now opened in browser (Safari browser is not supported)'} )
