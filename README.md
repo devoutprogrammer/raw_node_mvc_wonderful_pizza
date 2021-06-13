@@ -45,17 +45,17 @@ The application uses Twilio for texting/calling, Mailgun for emailing, and Strip
 ### Installation
 1. clone the repository:
  ```javascript
- git clone https://github.com/devoutprogrammer/raw_node_mvc_wonderful_pizza.git mvc
+ git clone https://github.com/ericsonsweah/raw_node_mvc_wonderful_pizza.git mvc
 ```
 or 
  ```javascript
- git clone git@github.com:devoutprogrammer/raw_node_mvc_wonderful_pizza.git mvc
+ git clone git@github.com:ericsonsweah/raw_node_mvc_wonderful_pizza.git mvc
 ```
 or
   ```javascript
- gh repo clone devoutprogrammer/raw_node_mvc_wonderful_pizza mvc
+ gh repo clone ericsonsweah/raw_node_mvc_wonderful_pizza mvc
  ```
-  Note: to use the command ```gh repo clone devoutprogrammer/raw_node_mvc_wonderful_pizza mvc``` you must have  Github CLI ```gh ``` installed on your system.
+  Note: to use the command ```gh repo clone ericsonsweah/raw_node_mvc_wonderful_pizza mvc``` you must have  Github CLI ```gh ``` installed on your system.
  
 2. cd in the directory:
 ```javascript
