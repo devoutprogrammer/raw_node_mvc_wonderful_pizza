@@ -6,7 +6,7 @@ This is a website or web application  and CLI (Administration) for some fictiona
 2. Back End: vanilla JavaScript and pure NodeJs: No npm, no dependencies, no package.json, no frameworks, and no libraries
 
 
-### Composition
+# Composition
 ## Front End
 1. CSS, CSS-Grid
 2. Javascript
