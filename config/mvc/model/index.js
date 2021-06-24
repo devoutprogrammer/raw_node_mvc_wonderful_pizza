@@ -19,7 +19,7 @@ class Model extends MVC {
         super()
         
         // auto bind methods 
-        this.autobind(MVC)
+        this.autobind(Model)
     }
    
    
