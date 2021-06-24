@@ -18,7 +18,7 @@ This is a website or web application  and CLI (Administration) for some fictiona
 1. authentication
 2. Administration
 ### Notes: 
-This project uses Object-Oriented Programming (OOP) and Functional Programming (FP) heavily. What is meant by Object-Oriented Programming here is Object-Oriented Programming the Javascript way and specifically the ES6 way. What is meant by Functional Programming here is Functional Programming the Javascript way; specifically the ES6 way.
+This project uses Object-Oriented Programming (OOP) and Functional Programming (FP) heavily. What is meant by Object-Oriented Programming here is Object-Oriented Programming the Javascript way, specifically the ES6 way. What is meant by Functional Programming here is Functional Programming the Javascript way, specifically the ES6 way.
 
 All the front end codes and all the classes of the front end codes inherit a single class or interface: 
 ```javascript
