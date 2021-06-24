@@ -1,7 +1,7 @@
 # Pure NodeJs MVC
 ## Wonderful Pizza: America's Most Wanted Pizza
-Built just with the fundamentals: HTML, CSS, Javascript,and NodeJs.
-This is a website or web application  and CLI (Administration) for some fictional pizza delivery company I called Wonderful Pizza: America's Most Wanted Pizzas. I had one single rule in mind when building this personal project. And the number one rule is: No npm, no dependencies, no frameworks, no libraries,no CDNs, and no copying and pasting someone else's codes. So the whole project was built from scratch, from an empty folder. The basis of the project are:
+Built with just the fundamentals: HTML, CSS, Javascript,and NodeJs.
+This is a website or web application  and CLI (Administration) for some fictional pizza delivery company called Wonderful Pizza: America's Most Wanted Pizzas. This project was built with a one single rule in mind. That rule is: No npm, no dependencies, no frameworks, no libraries, no CDNs, and no copying and pasting someone else's codes. The whole project was built from scratch, from an empty folder. The basis of the project are:
 1. Front End: vanilla HTML, vanilla CSS, and vanilla Javascript. No npm, no dependencies, no package.json, no frameworks, no libraries, and no CDNs.
 2. Back End: vanilla JavaScript and pure NodeJs: No npm, no dependencies, no package.json, no frameworks, and no libraries
 
@@ -18,7 +18,7 @@ This is a website or web application  and CLI (Administration) for some fictiona
 1. authentication
 2. Administration
 ### Notes: 
-This project uses Object Oriented Programming (OOP) and Functional Programming (FP) heavily. By Object Oriented Programming I mean Object Oriented Programming the Javascript way and specifically the ES6 way. And by Functional Programming I mean functional programming the Javascript way; specifically the ES6 way.
+This project uses Object-Oriented Programming (OOP) and Functional Programming (FP) heavily. What is meant by Object-Oriented Programming is Object-Oriented Programming the Javascript way and specifically the ES6 way. What is meant by Functional Programming is Functional Programming the Javascript way; specifically the ES6 way.
 
 All the front end codes and all the classes of the front end codes inherit a single class or interface: 
 ```javascript
