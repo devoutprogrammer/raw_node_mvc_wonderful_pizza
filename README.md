@@ -1,7 +1,7 @@
 # Pure NodeJs MVC
 ## Wonderful Pizza: America's Most Wanted Pizza
 Built with just the fundamentals: HTML, CSS, Javascript,and NodeJs.
-This is CLI (Administration) for a pizza delivery company. For security and protection reasons, the name of the actual company is not be revealved here. I will simpley call the demo version Wonderful Pizza: America's Most Wanted Pizzas. This project was built with a one single rule in mind. That rule is: No npm, no dependencies, no frameworks, no libraries, no CDNs, and no copying and pasting someone else's codes. The whole project was built from scratch, from an empty folder. The basis of the project are:
+This is CLI (Administration) for a pizza delivery company. For security and protection reasons, the name of the actual company is not be revealved here. I will simple call this demo version Wonderful Pizza: America's Most Wanted Pizzas. But the CLI is the same (except the production version has been improved).  This project was built with a one single rule in mind. That rule is: No npm, no dependencies, no frameworks, no libraries, no CDNs, and no copying and pasting someone else's codes. The whole project was built from scratch, from an empty folder. The basis of the project are:
 1. Front End: vanilla HTML, vanilla CSS, and vanilla Javascript. No npm, no dependencies, no package.json, no frameworks, no libraries, and no CDNs.
 2. Back End: vanilla JavaScript and pure NodeJs: No npm, no dependencies, no package.json, no frameworks, and no libraries
 
